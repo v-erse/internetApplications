@@ -99,7 +99,7 @@ describe('messages library', function() {
    });
 
   /* 1.3 Remaining CRUD functions */
-  /*
+  
   it('messages.readUsername() reads all messages created by messages.create()' +
      ' by the user with specified username.', function(done){
        const READ_USER_IDX = 0;
@@ -212,7 +212,7 @@ describe('messages library', function() {
          });
        });
    });
-  */
+
 
   /* 1.4 Data validation */
   /*
